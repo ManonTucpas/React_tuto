@@ -100,3 +100,6 @@ in settings.json (go in settings in vscode, select edit in setting.json) add:
 ### To create a components 'sample'
 
 rsc
+
+### Link
+https://www.youtube.com/watch?v=f0X1Tl8aHtA
