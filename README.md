@@ -68,3 +68,35 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Install
+
+~ npx crete-react-app project_name
+
+### Take back a project to add librairies
+
+~ npm i
+
+### Compile
+
+~ npm run build
+
+### Utils Librairies
+
+~ npm i react-router-dom sass
+
+### Plugins o install
+
+Simple React Snippets
+Reactjs code snippets
+Mithril Emmet
+EsLint
+
+in settings.json (go in settings in vscode, select edit in setting.json) add:
+
+"emmet.includeLanguages": { "javascript": "javascriptreact" }, "emmet.triggerExpansionOnTab": true
+
+### To create a components 'sample'
+
+rsc
